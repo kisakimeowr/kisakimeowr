@@ -3,7 +3,7 @@
 - Studying **javascript/python**
 - OS **Windows 10**
 
-**Social media!** 🌐
+**Contact me**
 - Discord **Kisaki#0001**
 
 
