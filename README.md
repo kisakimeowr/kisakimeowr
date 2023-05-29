@@ -1,6 +1,6 @@
      
 - Name **Kisaki**
-- Studying **javascript/python**
+- learning **javascript/python**
 - OS **Windows 10**
 
 **Contact me**
