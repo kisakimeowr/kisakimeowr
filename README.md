@@ -4,7 +4,7 @@
 - OS **Windows 10/linux vm**
 
 **Contact me**
-- Discord **Kisaki#0001**
+- Discord **Kisakimeowr**
 
 
 <img src="https://media.tenor.com/UvvgjxTnagUAAAAM/cat-meow.gif" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
