@@ -1,7 +1,7 @@
      
 - Name **Kisaki**
 - learning **javascript/python**
-- OS **Windows 10**
+- OS **Windows 10/linux ubuntu**
 
 **Contact me**
 - Discord **Kisaki#0001**
