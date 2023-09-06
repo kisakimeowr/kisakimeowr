@@ -1,10 +1,10 @@
      
 - Name **Kisaki**
-- learning **javascript/python**
+- learning **javascript/python / cyber sec**
 - OS **Windows 10/linux vm**
 
 **Contact me**
-- Discord **Kisakimeowr**
+- Discord **blahja**
 - https://femboy.bio/kisaki - my bio
 
 
