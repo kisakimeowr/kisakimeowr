@@ -5,7 +5,7 @@
 
 **Contact me**
 - Discord **blahja**
-- https://ez.bio/kisaki - my bio
+- https://e.z.bio/kisaki - my bio
 
 
 <img src="https://media.tenor.com/UvvgjxTnagUAAAAM/cat-meow.gif" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
