@@ -11,9 +11,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+
 
 ###
 
