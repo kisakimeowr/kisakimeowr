@@ -1,4 +1,4 @@
-<h2 align="center">Hai :3 My name is ryan/kisaki and I'm a aspiring full stack dev from the U.S</h2>
+<h2 align="center">Hi im kisaki and I'm a aspiring full stack dev from the U.S</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="center">just a guy trying learn full stack/cyber security :3 open to mentors :3</h3>
+<h3 align="center">just a guy trying learn full stack/cyber security3</h3>
 
 ###
 
